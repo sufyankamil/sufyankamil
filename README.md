@@ -24,8 +24,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-|  |  | 
-|    |         | 
+| Amazon Clone |  | 
+| Basic Banking System    |         | 
 | E-Commerce Website | This is a Ecommerce Website where clothes for men and women are available. ( https://github.com/sufyankamil/E-Commerce-Website ) |
 |  |            |
 
