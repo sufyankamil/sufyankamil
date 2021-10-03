@@ -25,12 +25,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | Amazon Clone |  | 
-| Basic Banking System | A Web Application used to transfer money between multiple users. A dummy user can also be created.
-
-Tech Stack used -
-Front-end : HTML, CSS, Bootstrap & Javascript
-Back-end : PHP
-Database : MySQL ( https://github.com/sufyankamil/Basic-Banking-System ) | 
+| Basic Banking System | A Web Application used to transfer money between multiple users. A dummy user can also be created.( https://github.com/sufyankamil/Basic-Banking-System ) | 
 | E-Commerce Website | This is a Ecommerce Website where clothes for men and women are available. ( https://github.com/sufyankamil/E-Commerce-Website ) |
 |  |            |
 
