@@ -24,7 +24,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| Amazon Clone |  | 
+| Amazon Clone | (https://github.com/sufyankamil/Amazon-Project-V1) | 
 | Basic Banking System | A Web Application used to transfer money between multiple users. A dummy user can also be created. ( https://github.com/sufyankamil/Basic-Banking-System ) | 
 | E-Commerce Website | This is a Ecommerce Website where clothes for men and women are available. ( https://github.com/sufyankamil/E-Commerce-Website ) |
 | Python and Machine Learning Bootcamp | Developed this project during the 7 Days Bootcamp, conducted by SHAPEAI (https://github.com/sufyankamil/ShapeAI_Python_Machine_Learning) |
