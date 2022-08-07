@@ -1,6 +1,6 @@
 <img src="Web,jpg![Web](https://user-images.githubusercontent.com/66327177/126214087-32ca39e2-658f-4e19-9f1c-8c6c4907b616.jpg)">
 
-A bit about Myself, I am <b>Sufyan Kamil</b> pursuing a <b>Computer Engineering Degree</b> from Saraswati College of Engineering, Kharghar. As of now, I am focused on <b>web development</b> but still, wish to explore many fields.
+A bit about Myself, I am <b>Sufyan Kamil</b> done graduation in <b>Computer Engineering Degree</b> from Saraswati College of Engineering, Kharghar. Now, I am working as a <b>Full Stack Developer.</b>I am a self-motivated individual who is always looking for new challenges and new opportunities.
 
 <h1 align="center">Tech-Stack</h1>
 
