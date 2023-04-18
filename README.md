@@ -2,6 +2,15 @@
 
 A bit about Myself, I am <b>Sufyan Kamil,</b> done graduation in <b>Computer Engineering</b> from Saraswati College of Engineering, Kharghar. Now, I am working as a <b>Full Stack Developer.</b>I am a self-motivated individual who is always looking for new challenges and new opportunities.
 
+Hi there! 👋
+I'm Mohd Sufyan Kamil, a full stack developer with a degree in Computer Engineering. I have a passion for creating clean, efficient code and finding innovative solutions to complex problems.
+
+I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Flutter, Node.js, and MongoDB. I have worked on both front-end and back-end development.. In my current role as a full stack developer at Headstrait Software LLP, I work on designing to ensure consistent user experience and user interface design, resulting in an intuitive and visually appealing application and implement a RESTful API to integrate the application with third-party services, resulting in a more streamlined and efficient workflow..
+
+When I'm not coding, you can find me playing cricket or listening to music.
+
+Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or have any questions! 😊
+
 <h1 align="center">Tech-Stack</h1>
 
 I am learning web development and having knowledge of HTML,CSS & Javascript. Beside that I am also learning Java and also has  knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
