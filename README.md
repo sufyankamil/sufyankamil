@@ -3,7 +3,7 @@
 Hi there! 👋
 I'm Mohd Sufyan Kamil, a Senior Flutter developer with a degree in Computer Engineering. I have a passion for creating clean, efficient code and finding innovative solutions to complex problems.
 
-I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Flutter, Node.js, and MongoDB. I have worked on both front-end and back-end development.. In my current role as a full stack developer at Headstrait Software LLP, I work on designing to ensure consistent user experience and user interface design, resulting in an intuitive and visually appealing application and implement a RESTful API to integrate the application with third-party services, resulting in a more streamlined and efficient workflow..
+I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Flutter, Node.js, and MongoDB. I have worked on both front-end and back-end development.. In my current role as a Senior Flutter Developer at Lauren Information Technology, I am leading the development of cross-platform applications using Flutter, ensuring high-quality deliverables across web and mobile platforms...
 
 When I'm not coding, you can find me playing cricket or listening to music.
 
