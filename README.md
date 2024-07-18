@@ -1,7 +1,7 @@
 <img src="Web,jpg![Web](https://user-images.githubusercontent.com/66327177/126214087-32ca39e2-658f-4e19-9f1c-8c6c4907b616.jpg)">
 
 Hi there! 👋
-I'm Mohd Sufyan Kamil, a full stack developer with a degree in Computer Engineering. I have a passion for creating clean, efficient code and finding innovative solutions to complex problems.
+I'm Mohd Sufyan Kamil, a Senior Flutter developer with a degree in Computer Engineering. I have a passion for creating clean, efficient code and finding innovative solutions to complex problems.
 
 I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Flutter, Node.js, and MongoDB. I have worked on both front-end and back-end development.. In my current role as a full stack developer at Headstrait Software LLP, I work on designing to ensure consistent user experience and user interface design, resulting in an intuitive and visually appealing application and implement a RESTful API to integrate the application with third-party services, resulting in a more streamlined and efficient workflow..
 
