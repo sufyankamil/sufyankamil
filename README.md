@@ -1,83 +1,27 @@
-<img src="Web,jpg![Web](https://user-images.githubusercontent.com/66327177/126214087-32ca39e2-658f-4e19-9f1c-8c6c4907b616.jpg)">
-
-Hi there! 👋
-I'm Mohd Sufyan Kamil, a Senior Flutter developer with a degree in Computer Engineering. I have a passion for creating clean, efficient code and finding innovative solutions to complex problems.
-
-I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Flutter, Node.js, and MongoDB. I have worked on both front-end and back-end development.. In my current role as a Senior Flutter Developer at Lauren Information Technology, I am leading the development of cross-platform applications using Flutter, ensuring high-quality deliverables across web and mobile platforms...
-
-When I'm not coding, you can find me playing cricket or listening to music.
-
-Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or have any questions! 😊
-
-<h1 align="center">Tech-Stack</h1>
-
- <p align="center">
-        <img
-          alt="C"
-          src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"
-        />
-        <img
-          alt="C++"
-          src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"
-        />
-        <img
-          alt="Java"
-          src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"
-        />
-        <img
-          alt="HTML5"
-          src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"
-        />
-        <img
-          alt="CSS3"
-          src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"
-        />
-        <img
-          alt="JavaScript"
-          src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-        />
-        <img
-          alt="React"
-          src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
-        />
-        <img
-          alt="Node.js"
-          src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
-        />
-        <img
-          alt="Flutter"
-          src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"
-        />
-        <img
-          alt="MongoDB"
-          src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"
-        />
-</p>
-
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
-
-<h1 align="center">Projects</h1>
+# 💫 About Me:
+ I'm Sufyan Kamil, a Senior Flutter developer with a degree in Computer Engineering. I have a passion for creating clean, efficient code and finding innovative solutions to complex problems.<br><br>I have experience working with a variety of technologies, including HTML, CSS, JavaScript, React, Flutter, Node.js, and MongoDB. I have worked on both front-end and back-end development.. In my current role as a Senior Flutter Developer at Lauren Information Technology, I am leading the development of cross-platform applications using Flutter, ensuring high-quality deliverables across web and mobile platforms...<br><br>When I'm not coding, you can find me playing cricket or listening to music.<br><br>Feel free to check out my repositories and get in touch if you'd like to collaborate on a project or have any questions! 😊
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyankamil) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16388427) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sufyan_kamil) 
 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sufyankamil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sufyankamil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyankamil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| Amazon Clone | (https://github.com/sufyankamil/Amazon-Project-V1) | 
-| Basic Banking System | A Web Application used to transfer money between multiple users. A dummy user can also be created. ( https://github.com/sufyankamil/Basic-Banking-System ) | 
-| E-Commerce Website | This is a Ecommerce Website where clothes for men and women are available. ( https://github.com/sufyankamil/E-Commerce-Website ) |
-| Python and Machine Learning Bootcamp | Developed this project during the 7 Days Bootcamp, conducted by SHAPEAI (https://github.com/sufyankamil/ShapeAI_Python_Machine_Learning) |
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sufyankamil&theme=flag-india&no-frame=false&no-bg=true&margin-w=4)
 
-<hr>
-<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h1 align="center">Let's Get Connected</h1>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sufyankamil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sufyankamil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-<a  href="https://www.linkedin.com/in/sufyan-k-77a974110" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/sufyan__kamil?s=08" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:sufyankamil15@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
